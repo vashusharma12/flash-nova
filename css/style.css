@@ -7,7 +7,7 @@ body{font-size: 14px;font-family: 'Nunito Sans', sans-serif;}
 .navbar .navbar-nav .nav-item a:hover{color: #ed6c00;}
 
 
-.banner{background-image: url(/images/banner.jpg);padding: 150px 0px;background-attachment: fixed;background-size: cover;}
+.banner{background-image: url(../images/banner.jpg);padding: 150px 0px;background-attachment: fixed;background-size: cover;}
 .banner .banner-content h1{color:#ed6c00}
 .banner .banner-content .banner-info{width:45%;}
 .banner .banner-content .banner-btn a{padding: 15px 10px;color:#fff;border-radius: 5px;background-color: #ed6c00;text-decoration: none;}
@@ -150,7 +150,7 @@ body{font-size: 14px;font-family: 'Nunito Sans', sans-serif;}
 /* Contact us */
 
 
-.contact-us-content{padding: 70px 0px;background-image:url(/images/contact\ us.jpg);background-size: cover;background-attachment: fixed;}
+.contact-us-content{padding: 70px 0px;background-image:url(../images/contact\ us.jpg);background-size: cover;background-attachment: fixed;}
 .contact-us-content .contact-us-field{padding: 25px; background-color: #fff;text-align: center;}
 .contact-us-content .contact-us-field .field-icon{color: #ed6c00;margin-bottom: 10px;font-size: 40px;}
 .contact-us-content .contact-us-field h4{font-weight: bold;}
